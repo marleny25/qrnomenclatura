@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Rajdhani&family=Tinos&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Edu+TAS+Beginner:wght@700&family=Mochiy+Pop+One&family=Square+Peg&family=Tinos&display=swap');
+
+main{
+  font-family: 'Tinos', serif;
+}
+
+  .nav-link{
+    color: black;
+  }
+
+  @media (min-width: 768px) {
+    
+  }
+
+  .b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  @media (min-width: 992px) {
+    .rounded-lg-3 { border-radius: .2rem; }
+  }
+    
+  .display-5{
+    font-family: 'Source Serif Pro', serif;
+    color: green;
+
+   }
+   .display-4 {
+    font-family: 'Fjalla One', sans-serif;
+   }
+
+   .ferre{
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: rgb(221, 54, 54);
+   }
+
+   .comex{
+    font-family: 'Anton', sans-serif;
+   }
+
+   .resta{
+    font-family: 'Square Peg', cursive;
+    color: black;
+   }
+
+   .alce{
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: rgb(139, 240, 57);
+   }
+   .michoa{
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: rgb(245, 139, 213);
+   }
+   .jiso{
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: rgba(48, 66, 233, 0.658);
+   }
+
+   .saju{
+    font-family: 'Edu TAS Beginner', cursive;
+    color: rgba(34, 130, 240, 0.788);
+   }
+
+    /*
+ * Footer
+ */
+ .blog-footer {
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+ 
+  
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+.nav-link{
+  color: black;
+}

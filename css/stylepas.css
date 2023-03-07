@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right,#c4e2f5,#9cc8e4,#74bef0,#93e4d0);
+  }
+    /*
+   * Footer
+   */
+   .blog-footer {
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+   
+    
+  }
+  .blog-footer p:last-child {
+    margin-bottom: 0;
+  }
+  .nav-link{
+    color: black;
+  }

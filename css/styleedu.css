@@ -1,0 +1,18 @@
+
+body{
+    background: linear-gradient(to right,#c4e2f5,#9cc8e4,#74bef0,#93e4d0);
+    background-size: 500%;
+    animation:fanimado 10s infinite;
+}
+
+@keyframes fanimado{
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
